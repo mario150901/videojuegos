@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ .Content }}
+<hr>
+<ol>Reserva de videojuegos:</ol> 
+<br>
+  <form
+  action="https://formspree.io/f/xoqyrywd"
+  method="POST"
+>
+  <label>
+    Escriba su email:
+    <input type="email" name="_replyto">
+  </label>
+  <br>
+  <br>
+  <label>
+    Escriba el nombre del juego a reservar:
+    <textarea name="message"></textarea>
+  </label>
+  <br><br>
+  <!-- your other form fields go here -->
+  <button style="margin-right: auto; margin-left: auto" type="submit">Enviar</button>
+</form>
+{{ end }}

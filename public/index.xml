@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videojuegos</title>
+    
+    
+    
+    <link>http://example.org/</link>
+    <description>Recent content on Videojuegos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:58 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Datos de contacto de la empresa  Teléfono: 976 xxx xxx Dirección: C/xxxxxxx, sin nº. Email: arrobatodoloquepuedas@xxxxx.xxx  
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Novedades</title>
+      <link>http://example.org/novedades/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:58 +0200</pubDate>
+      
+      <guid>http://example.org/novedades/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Últimas novedades en videojuegos  Precio: 79.95 €  Powered by Football, EA SPORTS FIFA 22 acerca aún más el juego a la realidad gracias a mejoras significativas en la jugabilidad y una nueva temporada de novedades en todos los modos. Las innovaciones en las mecánicas de juego de FIFA 22 ofrecen un comportamiento más homogéneo entre los palos gracias a unos porteros reprogramados que muestran una mayor compostura en la posición más importante del campo, nuevas físicas del balón, un sprint explosivo que refleja con exactitud la aceleración de los jugadores más rápidos y nuevas tácticas de ataque que te dan todo el control del estilo de juego de tu equipo.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Próximos Lanzamientos</title>
+      <link>http://example.org/lanzamientos/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:58 +0200</pubDate>
+      
+      <guid>http://example.org/lanzamientos/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Próximos lanzamientos  Sin fecha prevista de lanzamiento. (Juego exclusivo de PS4 y PS5).   Sin fecha prevista de lanzamiento. (Juego exclusivo de PS4 y PS5).   Sin fecha prevista de lanzamiento. (Juego exclusivo de Xbox Series S y Xbox Series X).   Sin fecha prevista de lanzamiento. (Juego exclusivo de Xbox Series S y Xbox Series X).   Fecha de lanzamiento prevista: 19 de Noviembre. (Juego exclusivo de Nintendo Switch).
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'Videojuegos'
+theme = 'hello-friend'
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 1
+  
+  [[menu.main]]
+	identifier = "novedades"
+	name = "Novedades"
+	title = "Novedades"
+	url = "/novedades/"
+	weight = 2
+
+	[[menu.main]]
+	identifier = "próximos lanzamientos"
+	name = "Próximos Lanzamientos"
+	title = "Próximos Lanzamientos"
+	url = "/lanzamientos/"
+	weight = 3
+
+	[[menu.main]]
+	identifier = "Buscador"
+	name = "Buscador"
+	title = "Buscador"
+	url = "/buscar/"
+	weight = 4
+    
+	[outputs]
+  home = ["HTML", "JSON"]
